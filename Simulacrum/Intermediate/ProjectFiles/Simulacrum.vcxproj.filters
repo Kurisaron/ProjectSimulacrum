@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Simulacrum.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Simulacrum.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SimulacrumEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{C34A53DE-7A2E-391F-9292-A84444E41B18}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\VisionOS">
+      <UniqueIdentifier>{54FB6262-BE34-3FD1-8608-DAEF798947B6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\VisionOS\VisionOSEngine.ini">
+      <Filter>Config\VisionOS</Filter>
+    </None>
+    <Filter Include="Source\Simulacrum">
+      <UniqueIdentifier>{A11864F5-4D41-3981-B461-EB4C84D4C1F6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Simulacrum\Simulacrum.Build.cs">
+      <Filter>Source\Simulacrum</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Simulacrum\Simulacrum.cpp">
+      <Filter>Source\Simulacrum</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Simulacrum\Simulacrum.h">
+      <Filter>Source\Simulacrum</Filter>
+    </ClInclude>
+    <Filter Include="Source\Simulacrum\Private">
+      <UniqueIdentifier>{E399394B-28BE-3C6B-A8D8-E6EDEEB69803}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Simulacrum\Private\EntityCharacter.cpp">
+      <Filter>Source\Simulacrum\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Simulacrum\Private\EntityComponent.cpp">
+      <Filter>Source\Simulacrum\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Simulacrum\Private\Skill.cpp">
+      <Filter>Source\Simulacrum\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Simulacrum\Private\VRController.cpp">
+      <Filter>Source\Simulacrum\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Simulacrum\Public">
+      <UniqueIdentifier>{BCC8CD8A-0ACF-33AE-A5E0-DD520916310E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Simulacrum\Public\EntityCharacter.h">
+      <Filter>Source\Simulacrum\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Simulacrum\Public\EntityComponent.h">
+      <Filter>Source\Simulacrum\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Simulacrum\Public\Skill.h">
+      <Filter>Source\Simulacrum\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Simulacrum\Public\VRController.h">
+      <Filter>Source\Simulacrum\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

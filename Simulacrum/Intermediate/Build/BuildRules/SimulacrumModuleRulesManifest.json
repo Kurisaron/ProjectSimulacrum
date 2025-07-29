@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Github\\ProjectSimulacrum\\Simulacrum\\Source\\Simulacrum\\Simulacrum.Build.cs",
+		"D:\\Github\\ProjectSimulacrum\\Simulacrum\\Source\\Simulacrum.Target.cs",
+		"D:\\Github\\ProjectSimulacrum\\Simulacrum\\Source\\SimulacrumEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}

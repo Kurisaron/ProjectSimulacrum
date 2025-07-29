@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\projectsimulacrum\\simulacrum\\intermediate\\build\\win64\\unrealeditor\\inc\\simulacrum\\uht\\entitycomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\projectsimulacrum\\simulacrum\\intermediate\\build\\win64\\x64\\simulacrumeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\github\\projectsimulacrum\\simulacrum\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simulacrum\\definitions.simulacrum.h",
+            "d:\\github\\projectsimulacrum\\simulacrum\\source\\simulacrum\\public\\entitycomponent.h",
+            "d:\\github\\projectsimulacrum\\simulacrum\\intermediate\\build\\win64\\unrealeditor\\inc\\simulacrum\\uht\\entitycomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Simulacrum",
+			"Path": "..\\Source\\Simulacrum.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SimulacrumEditor",
+			"Path": "..\\Source\\SimulacrumEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
