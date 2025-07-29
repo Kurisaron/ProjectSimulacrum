@@ -6,6 +6,14 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Materials/Mat_Test.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/FirstPerson/MI_FirstPersonColorway.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/VehicleTemplate/Blueprints/BP_AssetGuideline_Chaos.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Vehicles/SportsCar/SM_SportsCar_Wheel.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Vehicles/SportsCar/SM_SportsCar_Glass.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Vehicles/SportsCar/SM_SportsCar.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Vehicles/SportsCar/SKM_SportsCar.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Materials/Mat_Rainbow1.uasset"
 			]
 		}
