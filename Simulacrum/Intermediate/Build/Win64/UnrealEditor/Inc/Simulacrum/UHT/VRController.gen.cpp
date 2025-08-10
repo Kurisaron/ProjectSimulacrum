@@ -58,7 +58,7 @@ struct Z_Construct_UClass_AVRController_Statics
 		{ "BlueprintType", "true" },
 		{ "Category", "Simulacrum|VR" },
 #if !UE_BUILD_SHIPPING
-		{ "Comment", "/**\n * Player controller used for VR players\n */" },
+		{ "Comment", "/**\n * Player controller used by VR players\n */" },
 #endif
 		{ "HideCategories", "Collision Rendering Transformation" },
 		{ "IncludePath", "VRController.h" },
@@ -66,7 +66,7 @@ struct Z_Construct_UClass_AVRController_Statics
 		{ "ModuleRelativePath", "Public/VRController.h" },
 		{ "ObjectInitializerConstructorDeclared", "" },
 #if !UE_BUILD_SHIPPING
-		{ "ToolTip", "Player controller used for VR players" },
+		{ "ToolTip", "Player controller used by VR players" },
 #endif
 	};
 #endif // WITH_METADATA
@@ -112,10 +112,10 @@ AVRController::~AVRController() {}
 struct Z_CompiledInDeferFile_FID_Github_ProjectSimulacrum_Simulacrum_Source_Simulacrum_Public_VRController_h__Script_Simulacrum_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AVRController, AVRController::StaticClass, TEXT("AVRController"), &Z_Registration_Info_UClass_AVRController, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AVRController), 3697808861U) },
+		{ Z_Construct_UClass_AVRController, AVRController::StaticClass, TEXT("AVRController"), &Z_Registration_Info_UClass_AVRController, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AVRController), 3790735502U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_ProjectSimulacrum_Simulacrum_Source_Simulacrum_Public_VRController_h__Script_Simulacrum_1480490317(TEXT("/Script/Simulacrum"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_ProjectSimulacrum_Simulacrum_Source_Simulacrum_Public_VRController_h__Script_Simulacrum_3776369053(TEXT("/Script/Simulacrum"),
 	Z_CompiledInDeferFile_FID_Github_ProjectSimulacrum_Simulacrum_Source_Simulacrum_Public_VRController_h__Script_Simulacrum_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Github_ProjectSimulacrum_Simulacrum_Source_Simulacrum_Public_VRController_h__Script_Simulacrum_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

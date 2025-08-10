@@ -14,6 +14,16 @@
 				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Vehicles/SportsCar/SM_SportsCar.uasset",
 				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Vehicles/SportsCar/SKM_SportsCar.uasset",
 				"D:/Github/ProjectSimulacrum/Simulacrum/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Prototypes/BP_ProtoEntityCharacter.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Prototypes/AI/BP_ProtoAIController.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Prototypes/AI/BB_Proto.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Prototypes/AI/BT_Proto.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Prototypes/AI/BB_ProtoAI.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Prototypes/AI/BT_ProtoAI.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Prototypes/AI/BTT_ChasePlayer.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Prototypes/AI/BTT_FindRandomPatrol.uasset",
+				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Prototypes/BP_TestEntityCharacter.uasset",
 				"D:/Github/ProjectSimulacrum/Simulacrum/Content/Materials/Mat_Rainbow1.uasset"
 			]
 		}

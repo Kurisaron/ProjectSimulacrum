@@ -54,30 +54,12 @@
     <Filter Include="Source\Simulacrum\Private">
       <UniqueIdentifier>{E399394B-28BE-3C6B-A8D8-E6EDEEB69803}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\Simulacrum\Private\EntityCharacter.cpp">
-      <Filter>Source\Simulacrum\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\Simulacrum\Private\EntityComponent.cpp">
-      <Filter>Source\Simulacrum\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\Simulacrum\Private\Skill.cpp">
-      <Filter>Source\Simulacrum\Private</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\Source\Simulacrum\Private\VRController.cpp">
       <Filter>Source\Simulacrum\Private</Filter>
     </ClCompile>
     <Filter Include="Source\Simulacrum\Public">
       <UniqueIdentifier>{BCC8CD8A-0ACF-33AE-A5E0-DD520916310E}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\Source\Simulacrum\Public\EntityCharacter.h">
-      <Filter>Source\Simulacrum\Public</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\Simulacrum\Public\EntityComponent.h">
-      <Filter>Source\Simulacrum\Public</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\Simulacrum\Public\Skill.h">
-      <Filter>Source\Simulacrum\Public</Filter>
-    </ClInclude>
     <ClInclude Include="..\..\Source\Simulacrum\Public\VRController.h">
       <Filter>Source\Simulacrum\Public</Filter>
     </ClInclude>

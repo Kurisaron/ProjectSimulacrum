@@ -7,3 +7,8 @@ AVRController::AVRController(const FObjectInitializer& ObjectInitializer) : Supe
 {
 
 }
+
+void AVRController::OnPossess(APawn* InPawn)
+{
+	Super::OnPossess(InPawn);
+}

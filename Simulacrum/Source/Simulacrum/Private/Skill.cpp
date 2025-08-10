@@ -1,9 +1,0 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
-#include "Skill.h"
-
-USkill::USkill(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer)
-{
-	bIsCoreSkill = false;
-}
