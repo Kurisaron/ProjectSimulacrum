@@ -4,6 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/PlayerController.h"
+#include "Camera/CameraComponent.h"
+#include "MotionControllerComponent.h"
 #include "VRController.generated.h"
 
 /**
@@ -14,10 +16,6 @@ class SIMULACRUM_API AVRController : public APlayerController
 {
 	GENERATED_BODY()
 
-	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "VR Controller", meta = (AllowPrivateAccess = "true"))
-	TSubclassOf<AActor> VR_RigClass;
-	AActor* VR_Rig;
-
 public:
 
 	AVRController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get());
@@ -25,5 +23,8 @@ public:
 protected:
 
 	virtual void OnPossess(APawn* InPawn) override;
+
+	virtual void OnUnPossess() override;
+
 
 };

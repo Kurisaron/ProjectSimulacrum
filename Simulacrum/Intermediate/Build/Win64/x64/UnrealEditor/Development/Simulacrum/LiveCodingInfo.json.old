@@ -1,12 +1,5 @@
 {
 	"RemapUnityFiles": 
 	{
-		"Module.Simulacrum.gen.cpp.obj": [
-			"EntityCharacter.gen.cpp.obj",
-			"EntityComponent.gen.cpp.obj",
-			"Skill.gen.cpp.obj",
-			"Simulacrum.init.gen.cpp.obj",
-			"VRController.gen.cpp.obj"
-		]
 	}
 }

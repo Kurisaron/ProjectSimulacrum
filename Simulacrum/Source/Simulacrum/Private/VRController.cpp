@@ -11,4 +11,14 @@ AVRController::AVRController(const FObjectInitializer& ObjectInitializer) : Supe
 void AVRController::OnPossess(APawn* InPawn)
 {
 	Super::OnPossess(InPawn);
+
+	// End if pawn being possessed is invalid
+	if (!IsValid(InPawn)) return;
+
+}
+
+void AVRController::OnUnPossess()
+{
+	Super::OnUnPossess();
+
 }

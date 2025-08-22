@@ -7,6 +7,18 @@
         "Includes": [
             "d:\\github\\projectsimulacrum\\simulacrum\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simulacrum\\definitions.simulacrum.h",
             "d:\\github\\projectsimulacrum\\simulacrum\\source\\simulacrum\\public\\vrcontroller.h",
+            "d:\\epiclibrary\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "d:\\epiclibrary\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
+            "d:\\epiclibrary\\ue_5.6\\engine\\source\\runtime\\headmounteddisplay\\public\\motioncontrollercomponent.h",
+            "d:\\epiclibrary\\ue_5.6\\engine\\source\\runtime\\engine\\public\\sceneviewextension.h",
+            "d:\\epiclibrary\\ue_5.6\\engine\\source\\runtime\\engine\\public\\sceneviewextensioncontext.h",
+            "d:\\epiclibrary\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\sceneviewextensioncontext.generated.h",
+            "d:\\epiclibrary\\ue_5.6\\engine\\source\\runtime\\engine\\public\\scenetexturesconfig.h",
+            "d:\\epiclibrary\\ue_5.6\\engine\\source\\runtime\\rendercore\\public\\gbufferinfo.h",
+            "d:\\epiclibrary\\ue_5.6\\engine\\source\\runtime\\headmounteddisplay\\public\\imotioncontroller.h",
+            "d:\\epiclibrary\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\imotioncontroller.generated.h",
+            "d:\\epiclibrary\\ue_5.6\\engine\\source\\runtime\\headmounteddisplay\\public\\lateupdatemanager.h",
+            "d:\\epiclibrary\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\motioncontrollercomponent.generated.h",
             "d:\\github\\projectsimulacrum\\simulacrum\\intermediate\\build\\win64\\unrealeditor\\inc\\simulacrum\\uht\\vrcontroller.generated.h"
         ],
         "ImportedModules": [],
